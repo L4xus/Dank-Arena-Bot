@@ -3,7 +3,7 @@ open source dank arena discord bot
 
 discord : https://discord.gg/n3rHCTS
 
-add pyproject.yoml as shown in dependencies
+add pyproject.toml as shown in dependencies
 
 #####################
 ```
