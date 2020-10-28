@@ -1,3 +1,5 @@
+***This must be included to fork/copy***
+
 [tool.poetry]
 name = "Dank arena bot"
 version = "0.1.0"
